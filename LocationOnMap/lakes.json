@@ -1,0 +1,50 @@
+[
+ {
+ "appearAnimation" : "1",
+ "id" : "1",
+ "lat" : "28.545651",
+ "lng" : "-81.35699999999",
+ "snippet" : "Come see the swans",
+ "title" : "lake eola"
+ },
+ {
+ "appearAnimation" : "0",
+ "id" : "2",
+ "lat" : "28.456401",
+ "lng" : "-81.6565",
+ "snippet" : "Come see the swans",
+ "title" : "lake eola"
+ },
+ {
+ "appearAnimation" : "1",
+ "id" : "3",
+ "lat" : "27.5455",
+ "lng" : "-81.65699999999",
+ "snippet" : "Come see the swans",
+ "title" : "lake eola"
+ },
+ {
+ "appearAnimation" : "1",
+ "id" : "4",
+ "lat" : "28.7671",
+ "lng" : "-81.3745459",
+ "snippet" : "Come see the swans",
+ "title" : "lake eola"
+ },
+ {
+ "appearAnimation" : "1",
+ "id" : "5",
+ "lat" : "28.556451",
+ "lng" : "-81.386756999999",
+ "snippet" : "Come see the swans",
+ "title" : "lake eola"
+ },
+ {
+ "appearAnimation" : "1",
+ "id" : "6",
+ "lat" : "28.52341",
+ "lng" : "-81.6564999999",
+ "snippet" : "Come see the swans",
+ "title" : "lake eola"
+ },
+]
